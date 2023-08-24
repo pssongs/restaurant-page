@@ -2,13 +2,12 @@
   "name": "restaurant-page",
   "version": "1.0.0",
   "description": "",
-  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack"
+    "build": "webpack --mode=production"
   },
   "repository": {
-    "type": "git",
+    "type": "git module",
     "url": "git+https://github.com/pssongs/restaurant-page.git"
   },
   "keywords": [],
